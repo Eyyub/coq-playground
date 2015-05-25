@@ -1,1 +1,1 @@
-# coq-playground
+Modest fun with Coq.
